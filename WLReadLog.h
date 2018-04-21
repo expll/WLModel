@@ -14,5 +14,6 @@
 @property(nonatomic, strong)NSString *chapterIndex;
 @property(nonatomic, strong)NSString *pageIndex; //页数
 @property(nonatomic, strong)NSString *lastChapter; //最后章节
+@property(nonatomic, strong)NSString *offset;
 
 @end
