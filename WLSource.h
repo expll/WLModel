@@ -15,6 +15,6 @@
 @property(nonatomic, strong)NSString *priority;
 @property(nonatomic, strong)NSString *chaptersLink;
 @property (nonatomic, strong)NSString *searchUrl;
-
+@property(nonatomic, strong)NSString *lastedChapter;
 
 @end
