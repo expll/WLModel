@@ -23,6 +23,7 @@
 @property(nonatomic, strong)NSString *lastChapter;
 @property(nonatomic, strong)NSString *updateDate;
 @property(nonatomic, strong)NSString *site;
+@property(nonatomic, strong)NSString *serial;
 
 // 追书特有字段
 @property(nonatomic, strong)NSString *zhuishu_id;
