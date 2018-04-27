@@ -19,5 +19,8 @@
 @property(nonatomic, strong)NSString *searchsLink;
 @property(nonatomic, strong)NSString *bodyLink;
 
+// 站内会用到
+@property(nonatomic, strong)NSDictionary *bookInfoRegex;
+
 
 @end
