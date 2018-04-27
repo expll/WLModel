@@ -26,6 +26,7 @@
 @property(nonatomic, strong)NSString *serial;
 @property(nonatomic, strong)NSString *followerCount;
 @property(nonatomic, strong)NSString *followerRatio; //留存
+@property(nonatomic, strong)NSString *chapterCount;
 
 // 追书特有字段
 @property(nonatomic, strong)NSString *zhuishu_id;
