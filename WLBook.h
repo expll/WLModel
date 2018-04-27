@@ -28,5 +28,13 @@
 // 追书特有字段
 @property(nonatomic, strong)NSString *zhuishu_id;
 
+// 搜狗
+@property(nonatomic, strong)NSString *sougou_id;
+@property(nonatomic, strong)NSString *sougou_bkey;
+@property(nonatomic, strong)NSString *sougou_md;
+@property(nonatomic, strong)NSString *sougou_nameMD5;
+@property(nonatomic, strong)NSString *sougou_authorMD5;
+@property(nonatomic, strong)NSString *sougou_status;
+
 
 @end
