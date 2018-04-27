@@ -16,5 +16,8 @@
 @property(nonatomic, strong)NSString *chaptersLink;
 @property (nonatomic, strong)NSString *searchUrl;
 @property(nonatomic, strong)NSString *lastedChapter;
+@property(nonatomic, strong)NSString *searchsLink;
+@property(nonatomic, strong)NSString *bodyLink;
+
 
 @end
